@@ -1286,3 +1286,593 @@
 [2021-09-30 08:34:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
 [2021-09-30 08:34:12] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
 [2021-09-30 08:34:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:34:15] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:34:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:34:18] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:34:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:34:21] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:34:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:34:24] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:34:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:34:27] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:34:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:34:30] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:34:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:34:33] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:34:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:34:36] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:34:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:34:39] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:34:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:34:42] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:34:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:34:45] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:34:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:34:48] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:34:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:34:51] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:34:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:34:54] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:34:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:34:57] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:34:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:35:00] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:35:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:35:03] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:35:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:35:06] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:35:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:35:09] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:35:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:35:12] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:35:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:35:15] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:35:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:35:18] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:35:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:35:21] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:35:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:35:24] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:35:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:35:27] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:35:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:35:30] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:35:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:35:33] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:35:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:35:36] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:35:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:35:39] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:35:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:35:42] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:35:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:35:45] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:35:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:35:48] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:35:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:35:51] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:35:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:35:54] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:35:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:35:57] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:35:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:36:00] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:36:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:36:03] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:36:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:36:06] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:36:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:36:09] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:36:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:36:12] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:36:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:36:15] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:36:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:36:18] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:36:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:36:21] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:36:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:36:24] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:36:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:36:27] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:36:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:36:30] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:36:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:36:33] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:36:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:36:36] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:36:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:36:39] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:36:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:36:42] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:36:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:36:45] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:36:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:36:48] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:36:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:36:51] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:36:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:36:54] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:36:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:36:57] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:36:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:37:00] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:37:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:37:03] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:37:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:37:06] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:37:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:37:09] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:37:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:37:12] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:37:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:37:15] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:37:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:37:18] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:37:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:37:21] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:37:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:37:24] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:37:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:37:27] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:37:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:37:30] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:37:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:37:33] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:37:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:37:36] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:37:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:37:39] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:37:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:37:42] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:37:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:37:45] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:37:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:37:48] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:37:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:37:51] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:37:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:37:54] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:37:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:37:57] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:37:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:38:00] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:38:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:38:03] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:38:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:38:06] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:38:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:38:09] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:38:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:38:12] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:38:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:38:15] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:38:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:38:18] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:38:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:38:21] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:38:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:38:24] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:38:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:38:27] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:38:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:38:30] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:38:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:38:33] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:38:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:38:36] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:38:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:38:39] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:38:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:38:42] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:38:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:38:45] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:38:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:38:48] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:38:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:38:51] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:38:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:38:54] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:38:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:38:57] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:38:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:39:00] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:39:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:39:03] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:39:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:39:06] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:39:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:39:09] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:39:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:39:12] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:39:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:39:15] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:39:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:39:18] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:39:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:39:21] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:39:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:39:24] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:39:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:39:27] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:39:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:39:30] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:39:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:39:33] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:39:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:39:36] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:39:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:39:39] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:39:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:39:42] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:39:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-09-30 08:39:45] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-09-30 08:50:30] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 吴狗男(1216878448) 的消息: [CQ:image,file=57425a50edee8f46b08ac0f4a7f7b267.image] (637526759) 
+[2021-09-30 08:50:52] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 吴狗男(1216878448) 的消息: 外网炎上原神吓得米哈游连夜白送翅膀 (-1124682915) 
+[2021-09-30 08:53:39] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: 切噜一下 sb张金豪 (120961494) 
+[2021-09-30 08:53:40] [INFO]: 发送群 Py QQbot(813476953) 的消息: 切噜～♪切咧啰叮啪唎 ... (833132469) 
+[2021-09-30 08:53:48] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: 切噜～♪切咧啰叮啪唎拉唎巴拉噼切铃噜噼切巴 (1185916707) 
+[2021-09-30 08:53:49] [INFO]: 发送群 Py QQbot(813476953) 的消息: 切噜噜是：
+sb张金 ... (-542706023) 
+[2021-09-30 08:54:19] [INFO]: 收到群 216大🐦转转转(487347867) 内 群老二次元(1216878448) 的消息: 切噜～♪切咧啰叮啪唎拉唎巴拉噼切铃噜噼切巴 (-1573100492) 
+[2021-09-30 08:54:19] [INFO]: 发送群 216大🐦转转转(487347867) 的消息: 切噜噜是：
+sb张金 ... (993342862) 
+[2021-09-30 08:55:23] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: 切噜一下 切噜～♪切咧啰叮啪唎拉唎巴拉噼切铃噜噼切巴 (-1465793009) 
+[2021-09-30 08:55:26] [INFO]: 发送群 Py QQbot(813476953) 的消息: 切噜～♪切啰巴切拉切 ... (918901676) 
+[2021-09-30 09:21:32] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 汪狗涛(2640365924) 的消息: 1／4 (-873364533) 
+[2021-09-30 09:21:45] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 汪狗涛(2640365924) 的消息: 应该是拆分那个本来要卖的礼包 (1435833960) 
+[2021-09-30 09:24:23] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 徐狗霞(1726925852) 的消息: 可是还是没有周年庆奖励 (580003582) 
+[2021-09-30 09:24:25] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 徐狗霞(1726925852) 的消息: [CQ:face,id=277] (-1147439292) 
+[2021-09-30 09:24:45] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 吴狗男(1216878448) 的消息: 再等等 (-862173230) 
+[2021-09-30 09:24:55] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 吴狗男(1216878448) 的消息: 说不定还有什么新操作 (1545820739) 
+[2021-09-30 09:25:04] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 徐狗霞(1726925852) 的消息: 绝了 (723806933) 
+[2021-09-30 09:25:13] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 徐狗霞(1726925852) 的消息: 外网一开始原神就坐不住了 (-2097675505) 
+[2021-09-30 09:25:15] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 徐狗霞(1726925852) 的消息: &#91;变形&#93;请使用最新版手机QQ体验新功能 (-167824487) 
+[2021-09-30 09:25:22] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 吴狗男(1216878448) 的消息: 继续冲的话米哈游有可能突然滑跪 (1828086307) 
+[2021-09-30 09:25:32] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 吴狗男(1216878448) 的消息: 送个自选五星什么的 (468800181) 
+[2021-09-30 09:26:12] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 吴狗男(1216878448) 的消息: 昨天Googleplay原神评分都掉到2.0了 (-2053781738) 
+[2021-09-30 09:26:23] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 吴狗男(1216878448) 的消息: 今天回到了3.0 (-225249408) 
+[2021-09-30 09:27:33] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 汪狗涛(2640365924) 的消息: 2.0也太低了吧 (1805362746) 
+[2021-09-30 09:27:47] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 汪狗涛(2640365924) 的消息: 那么多人的嘛 (480024236) 
+[2021-09-30 09:28:29] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 汪狗涛(2640365924) 的消息: 瞄了眼taptap (-1943827651) 
+[2021-09-30 09:28:45] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 汪狗涛(2640365924) 的消息: 8.7到8.1跌的竟然不多 (-81478741) 
+[2021-09-30 09:28:49] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 汪狗涛(2640365924) 的消息: [CQ:image,file=5558e3b2eb8d05de32312ef6db06fe5d.image] (-1679609266) 
+[2021-09-30 09:29:13] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 吴狗男(1216878448) 的消息: 玩过崩三应该都知道mhy有多扣 (-320601384) 
+[2021-09-30 09:29:26] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 吴狗男(1216878448) 的消息: 外面冲这么厉害我也是没想到的 (1978487650) 
+[2021-09-30 09:41:14] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 徐狗霞(1726925852) 的消息: 我也没想到 (48915444) 
+[2021-09-30 09:41:26] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 徐狗霞(1726925852) 的消息: 外网我感觉一直挺包容原神的 (-1668352425) 
+[2021-09-30 09:50:41] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 吴狗男(1216878448) 的消息: [CQ:image,file=19f50774795e3d480922b22a029d0abc.image] (-343292223) 
+[2021-09-30 09:50:43] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 吴狗男(1216878448) 的消息: [CQ:image,file=960f9087bf79233f39ab1ea016ad2834.image] (1921030011) 
+[2021-09-30 09:50:44] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 吴狗男(1216878448) 的消息: [CQ:image,file=28c1a0c291a24d51ebe5a7b8658c3cba.image] (92776429) 
+[2021-09-30 09:50:45] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 吴狗男(1216878448) 的消息: [CQ:image,file=97e787f2127d7387ddfa989abe132aeb.image] (-1791444356) 
+[2021-09-30 09:50:46] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 吴狗男(1216878448) 的消息: [CQ:image,file=aa4df3fdc4fbfb1e55b8cb083322cfc9.image] (-499152150) 
+[2021-09-30 11:49:26] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 阿格努(710621309) 的消息: [CQ:image,file=afb5f12763afc9a9cfd545bd4606c8f5.image] (-644760887) 
+[2021-09-30 12:45:52] [INFO]: 发送群 Py QQbot(813476953) 的消息: Tm发了新视频「坏老 ... (1103258426) 
+[2021-09-30 12:45:53] [INFO]: 发送群 Py QQbot(813476953) 的消息: 本条动态地址为htt ... (-657771904) 
+[2021-09-30 14:36:48] [INFO]: 发送群 Py QQbot(813476953) 的消息: 秦喵喵转发了「机智的 ... (-1345584618) 
+[2021-09-30 14:36:48] [INFO]: 发送群 Py QQbot(813476953) 的消息: 本条动态地址为htt ... (1064509319) 
+[2021-09-30 14:54:48] [INFO]: 发送群 Py QQbot(813476953) 的消息: 秦喵喵发了新视频「【 ... (1215573777) 
+[2021-09-30 14:54:48] [INFO]: 发送群 Py QQbot(813476953) 的消息: 本条动态地址为htt ... (682862324) 
+[2021-09-30 15:16:13] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: 来点涩图 (1605670498) 
+[2021-09-30 15:16:13] [INFO]: 发送群 Py QQbot(813476953) 的消息: loading... ... (-960641064) 
+[2021-09-30 15:16:22] [INFO]: 发送群 Py QQbot(813476953) 的消息: [CQ:image, ... (-1313147058) 
+[2021-09-30 15:16:32] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 人生重开模拟器 修仙 (-677696021) 
+[2021-09-30 15:16:36] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 0、天赋【大额头】颜 ... (-1600381571) 
+[2021-09-30 15:16:37] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 选择你的三个天赋,发 ... (-1067740008) 
+[2021-09-30 15:17:01] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 4 8 1 (-1218665458) 
+[2021-09-30 15:17:03] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 已选择天赋:
+天赋【 ... (777385396) 
+[2021-09-30 15:17:04] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 选择天赋加点（颜智体 ... (1498596642) 
+[2021-09-30 15:17:30] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 3 6 6 5 (-952741759) 
+[2021-09-30 15:17:32] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【70岁】超级核战 ... (-1338941417) 
+[2021-09-30 15:17:34] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【20岁】你的生活 ... (691548589) 
+[2021-09-30 15:17:36] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【20岁】你经常用 ... (1581187387) 
+[2021-09-30 15:33:36] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 人生重开模拟器 修仙 (-830464854) 
+[2021-09-30 15:33:41] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 0、天赋【美籍华人】 ... (-1182323652) 
+[2021-09-30 15:33:41] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 选择你的三个天赋,发 ... (-1894120865) 
+[2021-09-30 15:34:17] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 0 4 7 (-132304183) 
+[2021-09-30 15:34:20] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 已选择天赋:
+天赋【 ... (1628726131) 
+[2021-09-30 15:34:20] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 选择天赋加点（颜智体 ... (370365413) 
+[2021-09-30 15:34:27] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 5 5 5 5 (-2005416378) 
+[2021-09-30 15:34:30] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【182岁/颜8智 ... (-9374000) 
+[2021-09-30 15:34:33] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【132岁/颜8智 ... (1719248746) 
+[2021-09-30 15:34:35] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【82岁】比较顺风 ... (293509116) 
+[2021-09-30 15:34:37] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【32岁】比较顺风 ... (-2118022547) 
+[2021-09-30 15:34:40] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【482岁/颜8智 ... (-154748165) 
+[2021-09-30 15:34:42] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【432岁/颜8智 ... (-1778306274) 
+[2021-09-30 15:34:44] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【482岁/颜8智 ... (-519699576) 
+[2021-09-30 15:34:46] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【432岁/颜8智 ... (2014270002) 
+[2021-09-30 15:34:48] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【382岁/颜8智 ... (252207780) 
+[2021-09-30 15:34:51] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【332岁/颜8智 ... (-1855129849) 
+[2021-09-30 15:34:53] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【282岁/颜8智 ... (-429144175) 
+[2021-09-30 15:34:55] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【232岁/颜8智 ... (2137167403) 
+[2021-09-30 15:34:57] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【182岁/颜8智 ... (140879549) 
+[2021-09-30 15:35:00] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【132岁/颜8智 ... (-1730495700) 
+[2021-09-30 15:35:02] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【82岁】爱人因病 ... (-270693446) 
+[2021-09-30 15:35:04] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【32岁】可能是运 ... (-1121165091) 
+[2021-09-30 15:35:07] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【482岁/颜8智 ... (-903131061) 
+[2021-09-30 15:35:09] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【432岁/颜8智 ... (1394737649) 
+[2021-09-30 15:35:12] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【382岁/颜8智 ... (606417255) 
+[2021-09-30 15:35:14] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【332岁/颜8智 ... (-1170103100) 
+[2021-09-30 15:35:17] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【282岁/颜8智 ... (-851012526) 
+[2021-09-30 15:35:21] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【232岁/颜8智 ... (1414514152) 
+[2021-09-30 15:35:23] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【182岁/颜8智 ... (591983998) 
+[2021-09-30 15:35:38] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【132岁/颜8智 ... (-1275598609) 
+[2021-09-30 15:35:41] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【82岁】经济危机 ... (-990848903) 
+[2021-09-30 15:35:43] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【32岁】你的工作 ... (-1539878500) 
+[2021-09-30 15:42:37] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 人生重开模拟器 修仙 (-751804150) 
+[2021-09-30 15:42:40] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 0、天赋【天启】快乐 ... (1245262000) 
+[2021-09-30 15:42:41] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 选择你的三个天赋,发 ... (1027473446) 
+[2021-09-30 15:43:07] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 0 6 8 (-1554344571) 
+[2021-09-30 15:43:09] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 已选择天赋:
+天赋【 ... (-732060397) 
+[2021-09-30 15:43:10] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 选择天赋加点（颜智体 ... (1297413289) 
+[2021-09-30 15:43:19] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 5 5 5 5 (978568255) 
+[2021-09-30 15:43:21] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【85岁】你重重摔 ... (-1427318354) 
+[2021-09-30 15:43:23] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【35岁】你的生活 ... (-571741896) 
+[2021-09-30 15:43:54] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 人生重开模拟器 修仙 (598691155) 
+[2021-09-30 15:43:56] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 0、天赋【先天免疫】 ... (1420328389) 
+[2021-09-30 15:43:56] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 选择你的三个天赋,发 ... (-845075329) 
+[2021-09-30 15:44:14] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 5 6 9 (-1163518743) 
+[2021-09-30 15:44:16] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 已选择天赋:
+天赋【 ... (616728906) 
+[2021-09-30 15:44:16] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 选择天赋加点（颜智体 ... (1405467100) 
+[2021-09-30 15:44:20] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 5 5 5 5 (-892540826) 
+[2021-09-30 15:44:22] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【60岁】你在狱中 ... (-1110714128) 
+[2021-09-30 15:44:25] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【10岁】你们的体 ... (762627425) 
+[2021-09-30 15:44:44] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 人生重开模拟器 修仙 (1517549047) 
+[2021-09-30 15:44:46] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 0、天赋【白色胶囊】 ... (984906770) 
+[2021-09-30 15:44:47] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 选择你的三个天赋,发 ... (1303596164) 
+[2021-09-30 15:45:04] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 2 8 9 (-726000322) 
+[2021-09-30 15:45:06] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 已选择天赋:
+天赋【 ... (-1547883096) 
+[2021-09-30 15:45:07] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 选择天赋加点（颜智体 ... (1037678603) 
+[2021-09-30 15:45:14] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 5 5 5 5 (1256097949) 
+[2021-09-30 15:45:16] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【118岁/颜10 ... (-740828889) 
+[2021-09-30 15:45:18] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【68岁】书籍这种 ... (-1529812559) 
+[2021-09-30 15:45:20] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【18岁】你考上一 ... (879752224) 
+[2021-09-30 15:46:16] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 人生重开模拟器 修仙 (1130939574) 
+[2021-09-30 15:46:19] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 0、天赋【魔法棒】不 ... (-534085530) 
+[2021-09-30 15:46:19] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 选择你的三个天赋,发 ... (-1758613264) 
+[2021-09-30 15:46:42] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 0 2 9 (237297994) 
+[2021-09-30 15:46:44] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 已选择天赋:
+天赋【 ... (2032390620) 
+[2021-09-30 15:46:44] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 选择天赋加点（颜智体 ... (-414759809) 
+[2021-09-30 15:46:50] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 5 5 5 5 (-1874823959) 
+[2021-09-30 15:46:52] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【66岁】超级核战 ... (155788627) 
+[2021-09-30 15:46:55] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【16岁】努力学习 ... (2119046597) 
+[2021-09-30 15:46:57] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【466岁/颜17 ... (-286193580) 
+[2021-09-30 15:46:59] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【416岁/颜17 ... (-1711916862) 
+[2021-09-30 15:47:01] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【366岁/颜17 ... (-114183897) 
+[2021-09-30 15:47:04] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【316岁/颜17 ... (-1909030479) 
+[2021-09-30 15:47:06] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【266岁/颜17 ... (390057995) 
+[2021-09-30 15:47:09] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【216岁/颜17 ... (1614340253) 
+[2021-09-30 15:47:11] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【166岁/颜9智 ... (-27495106) 
+[2021-09-30 15:47:13] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【116岁/颜7智 ... (-1990507096) 
+[2021-09-30 15:47:15] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【66岁】广州出现 ... (273814546) 
+[2021-09-30 15:47:17] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【16岁】你开始看 ... (1733633156) 
+[2021-09-30 15:50:06] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 人生重开模拟器 修仙 (-135644907) 
+[2021-09-30 15:50:09] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 0、天赋【觉醒】随机 ... (-2131949181) 
+[2021-09-30 15:50:10] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 选择你的三个天赋,发 ... (-769858844) 
+[2021-09-30 15:50:33] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 0 7 9 (-1524903310) 
+[2021-09-30 15:50:35] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 已选择天赋:
+天赋【 ... (1007846344) 
+[2021-09-30 15:50:36] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 选择天赋加点（颜智体 ... (1259713374) 
+[2021-09-30 15:50:44] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 4 6 5 5 (-714004739) 
+[2021-09-30 15:50:46] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【23岁】你的病情 ... (-1569319317) 
+[2021-09-30 15:51:25] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 人生重开模拟器 修仙 (998197201) 
+[2021-09-30 15:51:27] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 0、天赋【艰苦奋斗】 ... (1282963271) 
+[2021-09-30 15:51:28] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 选择你的三个天赋,发 ... (-590910762) 
+[2021-09-30 15:51:52] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 2 3 8 (-1413457344) 
+[2021-09-30 15:51:54] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 已选择天赋:
+天赋【 ... (-888679515) 
+[2021-09-30 15:51:54] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 选择天赋加点（颜智体 ... (-1140792525) 
+[2021-09-30 15:52:00] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 4 5 6 5 (621392521) 
+[2021-09-30 15:52:02] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【78岁】你突发心 ... (1376682527) 
+[2021-09-30 15:52:05] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【28岁】你年龄大 ... (-865462340) 
+[2021-09-30 15:52:17] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 人生重开模拟器 修仙 (-1150474454) 
+[2021-09-30 15:52:19] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 0、天赋【左撇子】习 ... (577009296) 
+[2021-09-30 15:52:19] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 选择你的三个天赋,发 ... (1432569350) 
+[2021-09-30 15:52:29] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 人生重开模拟器 修仙 (-975414377) 
+[2021-09-30 15:52:29] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 选择的天赋数量不正确 ... (-1294243071) 
+[2021-09-30 15:52:37] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: exit (-2075769502) 
+[2021-09-30 15:52:37] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 选择的天赋数量不正确 ... (-213813772) 
+[2021-09-30 15:52:44] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: quit (1783112782) 
+[2021-09-30 15:52:44] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 选择的天赋数量不正确 ... (491721944) 
+[2021-09-30 15:52:51] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: exit (-2094300805) 
+[2021-09-30 15:52:52] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 选择的天赋数量不正确 ... (-198397459) 
+[2021-09-30 15:53:02] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: cancel (1831198807) 
+[2021-09-30 15:53:02] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: operation  ... (438489281) 
+[2021-09-30 15:53:07] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 人生重开模拟器 修仙 (-1969369776) 
+[2021-09-30 15:53:09] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 0、天赋【天启】快乐 ... (-40174138) 
+[2021-09-30 15:53:09] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 选择你的三个天赋,发 ... (-1654819805) 
+[2021-09-30 15:53:18] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: cancel (-363182923) 
+[2021-09-30 15:53:19] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: operation  ... (1934824719) 
+[2021-09-30 15:53:22] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 人生重开模拟器 修仙 (72623513) 
+[2021-09-30 15:53:24] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 0、天赋【魔法棒】不 ... (-1708085190) 
+[2021-09-30 15:53:25] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 选择你的三个天赋,发 ... (-315129684) 
+[2021-09-30 15:53:33] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: cancel (1950273814) 
+[2021-09-30 15:53:34] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: operation  ... (54124928) 
+[2021-09-30 15:53:38] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 人生重开模拟器 修仙 (-1819870191) 
+[2021-09-30 15:53:41] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 0、天赋【战功】你退 ... (-461255545) 
+[2021-09-30 15:53:41] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 选择你的三个天赋,发 ... (-1234163744) 
+[2021-09-30 15:54:06] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 5 6 8 (-1049159818) 
+[2021-09-30 15:54:08] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 已选择天赋:
+天赋【 ... (1484670668) 
+[2021-09-30 15:54:08] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 选择天赋加点（颜智体 ... (796489306) 
+[2021-09-30 15:54:11] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 5 5 5 5 (-1323441159) 
+[2021-09-30 15:54:14] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【81岁】你重重摔 ... (-971320465) 
+[2021-09-30 15:54:16] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【31岁】安逸的铁 ... (1595114197) 
+[2021-09-30 15:54:47] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 人生重开模拟器 修仙 (672444995) 
+[2021-09-30 15:54:49] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 0、天赋【独生子女】 ... (-1196707886) 
+[2021-09-30 15:54:49] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 选择你的三个天赋,发 ... (-810770620) 
+[2021-09-30 15:54:53] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: cancel (-1351936351) 
+[2021-09-30 15:54:53] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: operation  ... (-664000969) 
+[2021-09-30 15:54:56] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 人生重开模拟器 修仙 (1097168781) 
+[2021-09-30 15:54:58] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 0、天赋【觉醒】随机 ... (912410395) 
+[2021-09-30 15:54:59] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 选择你的三个天赋,发 ... (-1475947848) 
+[2021-09-30 15:55:30] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 0 3 4 (-553524690) 
+[2021-09-30 15:55:32] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 已选择天赋:
+天赋【 ... (1174975380) 
+[2021-09-30 15:55:32] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 选择天赋加点（颜智体 ... (823100162) 
+[2021-09-30 15:55:57] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 5 5 5 5 (-1582260589) 
+[2021-09-30 15:55:58] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 天赋点总和不是24！ ... (-692605435) 
+[2021-09-30 15:55:58] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 出现了非法的参数！发 ... (687016558) 
+[2021-09-30 15:56:14] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 6 6 6 6 (1609841400) 
+[2021-09-30 15:56:16] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【81岁】你重重摔 ... (-956470462) 
+[2021-09-30 15:56:19] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【31岁】你前往一 ... (-1308992556) 
+[2021-09-30 15:56:30] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 人生重开模拟器 修仙 (798936695) 
+[2021-09-30 15:56:33] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 0、天赋【天生抑郁】 ... (1486487265) 
+[2021-09-30 15:56:33] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 选择你的三个天赋,发 ... (-1047482533) 
+[2021-09-30 15:56:51] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 3 4 6 (-1231577139) 
+[2021-09-30 15:56:53] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 已选择天赋:
+天赋【 ... (640189020) 
+[2021-09-30 15:56:53] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 选择天赋加点（颜智体 ... (1362080458) 
+[2021-09-30 15:57:06] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 5 5 5 5 (837303087) 
+[2021-09-30 15:57:08] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【81岁/颜4智1 ... (1190071225) 
+[2021-09-30 15:57:10] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【31岁/颜7智1 ... (-538551805) 
+[2021-09-30 15:57:32] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 人生重开模拟器 修仙 (-1461622123) 
+[2021-09-30 15:57:34] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 0、天赋【从心所欲】 ... (914751286) 
+[2021-09-30 15:57:34] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 选择你的三个天赋,发 ... (1099091872) 
+[2021-09-30 15:59:47] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 2 4 5 (-661938662) 
+[2021-09-30 15:59:55] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 人生重开模拟器 修仙 (-1349734772) 
+[2021-09-30 15:59:58] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 0、天赋【十八变】1 ... (1060352797) 
+[2021-09-30 15:59:58] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 选择你的三个天赋,发 ... (1211401099) 
+[2021-09-30 16:00:14] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 1 4 8 (-504829359) 
+[2021-09-30 16:00:16] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 已选择天赋:
+天赋【 ... (-1762665785) 
+[2021-09-30 16:00:16] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 选择天赋加点（颜智体 ... (266767229) 
+[2021-09-30 16:00:26] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 5 5 5 5 (2028059627) 
+[2021-09-30 16:00:29] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【500岁/颜4智 ... (-427479480) 
+[2021-09-30 16:00:32] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【450岁/颜4智 ... (-1853743394) 
+[2021-09-30 16:00:34] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【400岁/颜4智 ... (143347556) 
+[2021-09-30 16:00:36] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【350岁/颜4智 ... (2139914226) 
+[2021-09-30 16:00:38] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【300岁/颜4智 ... (-281845149) 
+[2021-09-30 16:00:41] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【250岁/颜4智 ... (-1741401355) 
+[2021-09-30 16:00:43] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【200岁/颜4智 ... (-118236400) 
+[2021-09-30 16:00:45] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【150岁/颜4智 ... (-1879774330) 
+[2021-09-30 16:00:47] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【100岁】你觉醒 ... (385727036) 
+[2021-09-30 16:00:49] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【50岁/颜9智7 ... (1643809450) 
+[2021-09-30 16:00:51] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【500岁/颜13 ... (-6414583) 
+[2021-09-30 16:00:53] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【450岁/颜13 ... (-2003226721) 
+[2021-09-30 16:00:55] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【400岁/颜13 ... (294682149) 
+[2021-09-30 16:00:57] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【350岁/颜13 ... (1721192115) 
+[2021-09-30 16:00:59] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【300岁/颜13 ... (-165129438) 
+[2021-09-30 16:01:01] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【250岁/颜13 ... (-2127600716) 
+[2021-09-30 16:01:04] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【200岁/颜13 ... (-740390701) 
+[2021-09-30 16:01:06] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【150岁/颜7智 ... (-1529235387) 
+[2021-09-30 16:01:08] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【100岁】你从盒 ... (1037101567) 
+[2021-09-30 16:01:10] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【50岁】世界上首 ... (1255659881) 
+[2021-09-30 16:01:13] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【50岁】你感觉生 ... (-726446902) 
+[2021-09-30 16:01:15] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【0岁/颜5智5体 ... (-1548452772) 
+[2021-09-30 16:08:41] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 人生重开模拟器 (985476582) 
+[2021-09-30 16:08:44] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 0、天赋【战功】你退 ... (1304042864) 
+[2021-09-30 16:08:44] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 选择你的三个天赋,发 ... (-586874655) 
+[2021-09-30 16:08:52] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: cancel (-1442697097) 
+[2021-09-30 16:08:52] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: operation  ... (-893011566) 
+[2021-09-30 17:15:53] [INFO]: 发送群 Py QQbot(813476953) 的消息: Tm转发了「法川Fa ... (803103469) 
+[2021-09-30 17:15:53] [INFO]: 发送群 Py QQbot(813476953) 的消息: 本条动态地址为htt ... (1490637435) 
+[2021-09-30 20:36:51] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 --初见--(920592790) 的消息: [CQ:image,file=9836641d16c6a4b52b18d196e8f71591.image] (-1365865889) 
+[2021-09-30 20:37:11] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 --初见--(920592790) 的消息: 离就离，必须做 (1042913230) 
+[2021-09-30 20:46:22] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 落雨无声(418598289) 的消息: 此地无银三百两！ (1227794264) 
+[2021-09-30 20:46:45] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 落雨无声(418598289) 的消息: 榜一大哥莫名其妙多了个孩子 (467618879) 
+[2021-09-30 21:22:42] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 岂无飞(402818767) 的消息: 榜一大哥莫名其妙多了个孩子 (1826127017) 
+[2021-09-30 21:22:42] [INFO]: 发送群 kenshi汉化和mod研究及暖暖化制作监督委员会-1群(696654735) 的消息: 榜一大哥莫名其妙多了 ... (-170840813) 
+[2021-09-30 21:25:49] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 ‭‭(2691449141) 的消息: 榜一大哥莫名其妙多了个孩子 (-2099896955) 
+[2021-09-30 21:31:04] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 圣徒的亡灵(1339837523) 的消息: 我莫名其妙多了个孩子 (481462310) 
+[2021-09-30 21:31:29] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 岂无飞(402818767) 的消息: [CQ:image,file=a6edc8d1b8b27d8e71027e01205c9f1d.image] (1807071408) 
+[2021-09-30 21:31:43] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 落雨无声(418598289) 的消息: 臭不要脸 (-222500598) 
+[2021-09-30 21:31:51] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 高橋啟介(791258074) 的消息: [CQ:image,file=97cf9b79cfec0d92f6fe27980d666181.image] (-2051286628) 
+[2021-09-30 22:02:10] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 人生重开模拟器 修仙 (-1111324412) 
+[2021-09-30 22:02:15] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 0、天赋【形象管理】 ... (617339070) 
+[2021-09-30 22:02:15] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 选择你的三个天赋,发 ... (1405937704) 
+[2021-09-30 22:02:30] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 0 6 9 (-844595829) 
+[2021-09-30 22:02:33] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 已选择天赋:
+天赋【 ... (-1162916579) 
+[2021-09-30 22:02:34] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 选择天赋加点（颜智体 ... (598088871) 
+[2021-09-30 22:02:45] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 5 5 5 5 (1419848753) 
+[2021-09-30 22:02:47] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: 
+【29岁】你的病情 ... (-1004654176) 
+[2021-09-30 22:04:15] [INFO]: 收到群 爱破的二十、小八的…(673489406) 内 爱破的二十(1139147107) 的消息: 来点色图 (-1290206922) 
+[2021-09-30 22:04:16] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: loading... ... (-2054934699) 
+[2021-09-30 22:04:22] [INFO]: 发送群 爱破的二十、小八的…(673489406) 的消息: [CQ:image, ... (-226287677) 

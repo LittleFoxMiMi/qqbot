@@ -1,0 +1,1213 @@
+[2021-10-02 04:30:32] [INFO]: 当前版本:v1.0.0-beta6 
+[2021-10-02 04:30:32] [INFO]: 用户交流群: 721829413 
+[2021-10-02 04:30:32] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2021-10-02 04:30:32] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2021-10-02 04:30:37] [INFO]: 开始尝试登录并同步消息... 
+[2021-10-02 04:30:37] [INFO]: 使用协议: iPad 
+[2021-10-02 04:30:40] [INFO]: Protocol -> connect to server: 203.205.255.220:8080 
+[2021-10-02 04:30:44] [INFO]: 登录成功 欢迎使用: 小八的狐狸耳朵~ 
+[2021-10-02 04:30:44] [INFO]: 开始加载好友列表... 
+[2021-10-02 04:30:44] [INFO]: 收到服务器地址更新通知, 将在下一次重连时应用.  
+[2021-10-02 04:30:44] [INFO]: 共加载 4 个好友. 
+[2021-10-02 04:30:44] [INFO]: 开始加载群列表... 
+[2021-10-02 04:30:45] [INFO]: 共加载 6 个群. 
+[2021-10-02 04:30:46] [INFO]: 信息数据库初始化完成. 
+[2021-10-02 04:30:46] [INFO]: 资源初始化完成, 开始处理信息. 
+[2021-10-02 04:30:46] [INFO]: アトリは、高性能ですから! 
+[2021-10-02 04:30:46] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 04:30:46] [INFO]: 正在检查更新. 
+[2021-10-02 04:30:46] [INFO]: 当前有更新的 go-cqhttp 可供更新, 请前往 https://github.com/Mrs4s/go-cqhttp/releases 下载. 
+[2021-10-02 04:30:46] [INFO]: 当前版本: v1.0.0-beta6 最新版本: v1.0.0-beta7-fix2 
+[2021-10-02 07:06:38] [INFO]: 发送群 Py QQbot(813476953) 的消息: 鹿乃酱 开播啦啦啦！ ... (1945371064) 
+[2021-10-02 11:14:35] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 圣徒的亡灵(1339837523) 的消息: 色图呢 (-1667176227) 
+[2021-10-02 11:30:48] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 盒子咸鱼(951399482) 的消息: 色图呢 (203421004) 
+[2021-10-02 11:30:49] [INFO]: 发送群 kenshi汉化和mod研究及暖暖化制作监督委员会-1群(696654735) 的消息: 色图呢 (2065221082) 
+[2021-10-02 11:35:51] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 drm9900(515481577) 的消息: [CQ:image,file=5782b1f8f8d3c1a08f64b2df8c9f60af.image][CQ:image,file=e0132e4d152ebb0919695354ee7612e4.image][CQ:image,file=52cbd4c44d2c976451a8cf68b8f3ee56.image] (1300622265) 
+[2021-10-02 11:56:15] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 汪狗涛(2640365924) 的消息: [CQ:image,file=b7e5a143225d2012a90f1dff7809f465.image] (934397295) 
+[2021-10-02 11:56:22] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 汪狗涛(2640365924) 的消息: 云原神还挺不错 (-1492199170) 
+[2021-10-02 11:56:33] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 汪狗涛(2640365924) 的消息: 可以让我这辣鸡平板也能玩原神 (-804657048) 
+[2021-10-02 12:14:37] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 吴狗男(1216878448) 的消息: 两块钱一小时我个人感觉还是蛮贵的 (-426457589) 
+[2021-10-02 12:15:24] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 汪狗涛(2640365924) 的消息: 白嫖每天的15分钟 (-1852574051) 
+[2021-10-02 12:15:26] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 汪狗涛(2640365924) 的消息: 够了 (144353063) 
+[2021-10-02 13:53:18] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-10-02 13:53:26] [WARNING]: 向WS服务器 127.0.0.1:15510 推送Event时出现错误: write tcp 127.0.0.1:40364->127.0.0.1:15510: use of closed network connection 
+[2021-10-02 13:53:29] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 13:53:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 13:53:32] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 13:53:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 13:53:35] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 13:53:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 13:53:38] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 13:53:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 13:53:41] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 13:53:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 13:53:44] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 13:53:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 13:53:47] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 13:53:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 13:53:50] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 13:53:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 13:53:53] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 13:53:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 13:53:56] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 13:53:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 13:53:59] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 13:53:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 13:54:02] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 13:54:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 13:54:05] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 13:54:21] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-10-02 13:54:26] [WARNING]: 向WS服务器 127.0.0.1:15510 推送Event时出现错误: write tcp 127.0.0.1:49598->127.0.0.1:15510: use of closed network connection 
+[2021-10-02 13:54:29] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 13:54:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 13:54:32] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 13:54:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 13:54:35] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 13:54:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 13:54:38] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 13:54:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 13:54:41] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 13:54:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 13:54:44] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 13:54:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 13:54:47] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 13:54:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 13:54:50] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 13:54:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 13:54:53] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 13:54:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 13:54:56] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 13:54:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 13:54:59] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 13:54:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 13:55:02] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 13:55:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 13:55:05] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 13:55:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 13:55:08] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 13:55:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 13:55:11] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 13:55:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 13:55:14] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 13:55:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 13:55:17] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 13:55:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 13:55:20] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 13:55:51] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-10-02 13:55:56] [WARNING]: 向WS服务器 127.0.0.1:15510 推送Event时出现错误: write tcp 127.0.0.1:49654->127.0.0.1:15510: use of closed network connection 
+[2021-10-02 13:55:59] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 13:57:00] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-10-02 13:57:06] [WARNING]: 向WS服务器 127.0.0.1:15510 推送Event时出现错误: write tcp 127.0.0.1:49656->127.0.0.1:15510: use of closed network connection 
+[2021-10-02 13:57:09] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 13:58:01] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-10-02 13:58:06] [WARNING]: 向WS服务器 127.0.0.1:15510 推送Event时出现错误: write tcp 127.0.0.1:49662->127.0.0.1:15510: use of closed network connection 
+[2021-10-02 13:58:09] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 13:58:24] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: line (-352497662) 
+[2021-10-02 14:00:20] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-10-02 14:00:26] [WARNING]: 向WS服务器 127.0.0.1:15510 推送Event时出现错误: write tcp 127.0.0.1:49688->127.0.0.1:15510: use of closed network connection 
+[2021-10-02 14:00:28] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: line (-1644535660) 
+[2021-10-02 14:00:29] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 14:00:29] [INFO]: 发送群 Py QQbot(813476953) 的消息: 获取贴纸包数据失败 (222657797) 
+[2021-10-02 14:01:28] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-10-02 14:01:35] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: line (2051165587) 
+[2021-10-02 14:01:35] [WARNING]: 向WS服务器 127.0.0.1:15510 推送Event时出现错误: write tcp 127.0.0.1:49714->127.0.0.1:15510: use of closed network connection 
+[2021-10-02 14:01:38] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 14:01:45] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: line (444974198) 
+[2021-10-02 14:01:46] [INFO]: 发送群 Py QQbot(813476953) 的消息: 获取贴纸包数据失败 (1837298912) 
+[2021-10-02 14:01:59] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-10-02 14:02:06] [WARNING]: 向WS服务器 127.0.0.1:15510 推送Event时出现错误: write tcp 127.0.0.1:49728->127.0.0.1:15510: use of closed network connection 
+[2021-10-02 14:02:09] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 14:02:11] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: line (-192174758) 
+[2021-10-02 14:02:12] [INFO]: 发送群 Py QQbot(813476953) 的消息: need stick ... (-2087938612) 
+[2021-10-02 14:02:27] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: 1445168 (501743727) 
+[2021-10-02 14:02:39] [INFO]: 发送群 Py QQbot(813476953) 的消息: 下载完成 (1794060537) 
+[2021-10-02 14:27:16] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-10-02 14:27:21] [WARNING]: 向WS服务器 127.0.0.1:15510 推送Event时出现错误: write tcp 127.0.0.1:49732->127.0.0.1:15510: use of closed network connection 
+[2021-10-02 14:27:24] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 14:27:39] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: line (-203005629) 
+[2021-10-02 14:27:39] [INFO]: 发送群 Py QQbot(813476953) 的消息: need stick ... (-2065608235) 
+[2021-10-02 14:29:53] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: 8071438 (341724228) 
+[2021-10-02 14:30:05] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: line (1666809042) 
+[2021-10-02 14:30:05] [INFO]: 发送群 Py QQbot(813476953) 的消息: need stick ... (-1658988359) 
+[2021-10-02 14:30:12] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: 8071438 (-367335377) 
+[2021-10-02 14:30:12] [INFO]: 发送群 Py QQbot(813476953) 的消息: 正在下载 <coro ... (1930672533) 
+[2021-10-02 14:31:36] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-10-02 14:31:41] [WARNING]: 向WS服务器 127.0.0.1:15510 推送Event时出现错误: write tcp 127.0.0.1:50090->127.0.0.1:15510: use of closed network connection 
+[2021-10-02 14:31:44] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 14:31:52] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: line 8071438 (68454659) 
+[2021-10-02 14:31:52] [INFO]: 发送群 Py QQbot(813476953) 的消息: 正在下载 <coro ... (-1703928672) 
+[2021-10-02 14:33:26] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-10-02 14:33:31] [WARNING]: 向WS服务器 127.0.0.1:15510 推送Event时出现错误: write tcp 127.0.0.1:50306->127.0.0.1:15510: use of closed network connection 
+[2021-10-02 14:33:34] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 14:33:41] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: line 8071438 (-310957002) 
+[2021-10-02 14:33:41] [INFO]: 发送群 Py QQbot(813476953) 的消息: 正在下载 <coro ... (1954446732) 
+[2021-10-02 14:34:47] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-10-02 14:34:51] [WARNING]: 向WS服务器 127.0.0.1:15510 推送Event时出现错误: write tcp 127.0.0.1:50364->127.0.0.1:15510: use of closed network connection 
+[2021-10-02 14:34:54] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 14:34:55] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: line 8071438 (58281242) 
+[2021-10-02 14:34:56] [INFO]: 发送群 Py QQbot(813476953) 的消息: 正在下载 <coro ... (-1815719797) 
+[2021-10-02 14:39:46] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-10-02 14:39:51] [WARNING]: 向WS服务器 127.0.0.1:15510 推送Event时出现错误: write tcp 127.0.0.1:50404->127.0.0.1:15510: use of closed network connection 
+[2021-10-02 14:39:54] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 14:39:58] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: line 8071438 (-457088995) 
+[2021-10-02 14:40:56] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-10-02 14:41:01] [WARNING]: 向WS服务器 127.0.0.1:15510 推送Event时出现错误: write tcp 127.0.0.1:50466->127.0.0.1:15510: use of closed network connection 
+[2021-10-02 14:41:04] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 14:41:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 14:41:07] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 14:41:29] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-10-02 14:41:36] [WARNING]: 向WS服务器 127.0.0.1:15510 推送Event时出现错误: write tcp 127.0.0.1:50486->127.0.0.1:15510: use of closed network connection 
+[2021-10-02 14:41:39] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 14:41:40] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: line 8071438 (-2079921672) 
+[2021-10-02 14:42:00] [INFO]: 发送群 Py QQbot(813476953) 的消息: 下载完成 (-217982610) 
+[2021-10-02 14:45:38] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-10-02 14:45:46] [WARNING]: 向WS服务器 127.0.0.1:15510 推送Event时出现错误: write tcp 127.0.0.1:50494->127.0.0.1:15510: use of closed network connection 
+[2021-10-02 14:45:49] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 14:46:00] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: line 1445168 (1778944212) 
+[2021-10-02 14:46:01] [INFO]: 发送群 Py QQbot(813476953) 的消息: 正在下载 Mafum ... (487569474) 
+[2021-10-02 14:46:04] [INFO]: 发送群 Py QQbot(813476953) 的消息: 下载完成 (-2090127903) 
+[2021-10-02 15:02:04] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-10-02 15:02:11] [WARNING]: 向WS服务器 127.0.0.1:15510 推送Event时出现错误: write tcp 127.0.0.1:50710->127.0.0.1:15510: use of closed network connection 
+[2021-10-02 15:02:14] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:02:23] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: line 1445168 (-194241161) 
+[2021-10-02 15:02:23] [INFO]: 发送群 Py QQbot(813476953) 的消息: 正在下载 Mafum ... (1835355341) 
+[2021-10-02 15:02:31] [INFO]: 发送群 Py QQbot(813476953) 的消息: 下载完成 (-1965202998) 
+[2021-10-02 15:26:31] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-10-02 15:26:36] [WARNING]: 向WS服务器 127.0.0.1:15510 推送Event时出现错误: write tcp 127.0.0.1:51260->127.0.0.1:15510: use of closed network connection 
+[2021-10-02 15:26:39] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:26:44] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: line 1445168 (-36023972) 
+[2021-10-02 15:26:44] [INFO]: 发送群 Py QQbot(813476953) 的消息: 正在下载 Mafum ... (1409693830) 
+[2021-10-02 15:26:53] [INFO]: 发送群 Py QQbot(813476953) 的消息: 下载完成 (-1173857878) 
+[2021-10-02 15:27:39] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-10-02 15:27:46] [WARNING]: 向WS服务器 127.0.0.1:15510 推送Event时出现错误: write tcp 127.0.0.1:52042->127.0.0.1:15510: use of closed network connection 
+[2021-10-02 15:27:49] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:27:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:27:52] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:27:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:27:55] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:27:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:27:58] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:27:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:28:01] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:28:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:28:04] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:28:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:28:07] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:28:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:28:10] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:28:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:28:13] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:28:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:28:16] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:28:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:28:19] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:28:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:28:22] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:28:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:28:25] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:28:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:28:28] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:28:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:28:31] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:28:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:28:34] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:28:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:28:37] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:28:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:28:40] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:28:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:28:43] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:28:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:28:46] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:28:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:28:49] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:28:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:28:52] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:28:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:28:55] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:28:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:28:58] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:28:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:29:01] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:29:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:29:04] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:29:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:29:07] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:29:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:29:10] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:29:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:29:13] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:29:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:29:16] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:29:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:29:19] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:29:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:29:22] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:29:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:29:25] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:29:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:29:28] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:29:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:29:31] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:29:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:29:34] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:29:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:29:37] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:29:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:29:40] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:29:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:29:43] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:29:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:29:46] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:29:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:29:49] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:29:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:29:52] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:29:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:29:55] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:29:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:29:58] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:29:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:30:01] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:30:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:30:04] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:30:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:30:07] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:30:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:30:10] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:30:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:30:13] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:30:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:30:16] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:30:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:30:19] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:30:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:30:22] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:30:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:30:25] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:30:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:30:28] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:30:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:30:31] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:30:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:30:34] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:30:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:30:37] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:30:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:30:40] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:30:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:30:43] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:30:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:30:46] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:30:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:30:49] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:30:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:30:52] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:30:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:30:55] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:30:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:30:58] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:30:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:31:01] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:31:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:31:04] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:31:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:31:07] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:31:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:31:10] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:31:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:31:13] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:31:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:31:16] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:31:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:31:19] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:31:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:31:22] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:31:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:31:25] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:31:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:31:28] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:31:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:31:31] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:31:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:31:34] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:31:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:31:37] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:31:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:31:40] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:31:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:31:43] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:31:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:31:46] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:31:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:31:49] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:31:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:31:52] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:31:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:31:55] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:31:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:31:58] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:31:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:32:01] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:32:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:32:04] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:32:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:32:07] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:32:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:32:10] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:32:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:32:13] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:32:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:32:16] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:32:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:32:19] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:32:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:32:22] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:32:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:32:25] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:32:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:32:28] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:32:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:32:31] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:32:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:32:34] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:32:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:32:37] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:32:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:32:40] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:32:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:32:43] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:32:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:32:46] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:32:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:32:49] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:32:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:32:52] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:32:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:32:55] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:32:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:32:58] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:32:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:33:01] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:33:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:33:04] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:33:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:33:07] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:33:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:33:10] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:33:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:33:13] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:33:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:33:16] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:33:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:33:19] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:33:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:33:22] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:33:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:33:25] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:33:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:33:28] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:33:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:33:31] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:33:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:33:34] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:33:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:33:37] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:33:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:33:40] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:33:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:33:43] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:33:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:33:46] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:33:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:33:49] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:33:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:33:52] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:33:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:33:55] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:33:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:33:58] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:33:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:34:01] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:34:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:34:04] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:34:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:34:07] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:34:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:34:10] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:34:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:34:13] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:34:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:34:16] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:34:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:34:19] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:34:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:34:22] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:34:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:34:25] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:34:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:34:28] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:34:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:34:31] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:34:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:34:34] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:34:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:34:37] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:34:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:34:40] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:34:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:34:43] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:34:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:34:46] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:34:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:34:49] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:34:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:34:52] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:34:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:34:55] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:34:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:34:58] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:34:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:35:01] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:35:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:35:04] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:35:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:35:07] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:35:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:35:10] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:35:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:35:13] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:35:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:35:16] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:35:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:35:19] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:35:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:35:22] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:35:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:35:25] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:35:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:35:28] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:35:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:35:31] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:35:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:35:34] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:35:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:35:37] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:35:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:35:40] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:35:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:35:43] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:35:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:35:46] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:35:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:35:49] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:35:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:35:52] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:35:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:35:55] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:35:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:35:58] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:35:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:36:01] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:36:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:36:04] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:36:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:36:07] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:36:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:36:10] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:36:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:36:13] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:36:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:36:16] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:36:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:36:19] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:36:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:36:22] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:36:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:36:25] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:36:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:36:28] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:36:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:36:31] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:36:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:36:34] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:36:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:36:37] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:36:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:36:40] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:36:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:36:43] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:36:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:36:46] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:36:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:36:49] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:36:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:36:52] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:36:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:36:55] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:36:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:36:58] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:36:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:37:01] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:37:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:37:04] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:37:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:37:07] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:37:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:37:10] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:37:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:37:13] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:37:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:37:16] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:37:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:37:19] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:37:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:37:22] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:37:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:37:25] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:37:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:37:28] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:37:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:37:31] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:37:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:37:34] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:37:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:37:37] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:37:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:37:40] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:37:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:37:43] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:37:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:37:46] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:37:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:37:49] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:37:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:37:52] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:37:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:37:55] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:37:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:37:58] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:37:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:38:01] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:38:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:38:04] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:38:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:38:07] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:38:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:38:10] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:38:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:38:13] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:38:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:38:16] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:38:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:38:19] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:38:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:38:22] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:38:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:38:25] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:38:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:38:28] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:38:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:38:31] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:38:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:38:34] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:38:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:38:37] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:38:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:38:40] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:38:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:38:43] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:38:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:38:46] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:38:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:38:49] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:38:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:38:52] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:38:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:38:55] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:38:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:38:58] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:38:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:39:01] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:39:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:39:04] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:39:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:39:07] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:39:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:39:10] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:39:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:39:13] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:39:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:39:16] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:39:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:39:19] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:39:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:39:22] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:39:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:39:25] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:39:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:39:28] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:39:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:39:31] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:39:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:39:34] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:39:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:39:37] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:39:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:39:40] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:39:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:39:43] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:39:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:39:46] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:39:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:39:49] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:39:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:39:52] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:39:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:39:55] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:39:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:39:58] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:39:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:40:01] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:40:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:40:04] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:40:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:40:07] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:40:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:40:10] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:40:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:40:13] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:40:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:40:16] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:40:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:40:19] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:40:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:40:22] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:40:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:40:25] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:40:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:40:28] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:40:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:40:31] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:40:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:40:34] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:40:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:40:37] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:40:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:40:40] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:40:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:40:43] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:40:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:40:46] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:40:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:40:49] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:40:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:40:52] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:40:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:40:55] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:40:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:40:58] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:40:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:41:01] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:41:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:41:04] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:41:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:41:07] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:41:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:41:10] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:41:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:41:13] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:41:30] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: line 8071438 (-854628036) 
+[2021-10-02 15:41:30] [INFO]: 发送群 Py QQbot(813476953) 的消息: 正在下载 Mafum ... (1399585951) 
+[2021-10-02 15:45:06] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-10-02 15:45:11] [WARNING]: 向WS服务器 127.0.0.1:15510 推送Event时出现错误: write tcp 127.0.0.1:52874->127.0.0.1:15510: use of closed network connection 
+[2021-10-02 15:45:14] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:45:18] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: line 8071438 (611109897) 
+[2021-10-02 15:45:18] [INFO]: 发送群 Py QQbot(813476953) 的消息: 正在下载 Mafum ... (-1117413965) 
+[2021-10-02 15:46:51] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-10-02 15:46:56] [WARNING]: 向WS服务器 127.0.0.1:15510 推送Event时出现错误: write tcp 127.0.0.1:52980->127.0.0.1:15510: use of closed network connection 
+[2021-10-02 15:46:59] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:46:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:47:02] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:47:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:47:05] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:47:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:47:08] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:47:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:47:11] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:47:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:47:14] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:47:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:47:17] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:47:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:47:20] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:47:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:47:23] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:47:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:47:26] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:47:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:47:29] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:47:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:47:32] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:47:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:47:35] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:47:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:47:38] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:47:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:47:41] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:47:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:47:44] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:47:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:47:47] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:47:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:47:50] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:47:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:47:53] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:47:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:47:56] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:47:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:47:59] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:47:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:48:02] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:48:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:48:05] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:48:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:48:08] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:48:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:48:11] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:48:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:48:14] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:48:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:48:17] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:48:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:48:20] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:48:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:48:23] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:48:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:48:26] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:48:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:48:29] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:48:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:48:32] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:48:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:48:35] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:48:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:48:38] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:48:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:48:41] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:48:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:48:44] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:48:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:48:47] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:48:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:48:50] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:48:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:48:53] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:48:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:48:56] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:48:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:48:59] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:48:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:49:02] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:49:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:49:05] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:49:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:49:08] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:49:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:49:11] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:49:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:49:14] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:49:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:49:17] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:49:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:49:20] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:49:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:49:23] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:49:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:49:26] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:49:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:49:29] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:49:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:49:32] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:49:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:49:35] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:49:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:49:38] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:49:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:49:41] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:49:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:49:44] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:49:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:49:47] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:49:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:49:50] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:49:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:49:53] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:49:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:49:56] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:49:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:49:59] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:49:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:50:02] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:50:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:50:05] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:50:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:50:08] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:50:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:50:11] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:50:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:50:14] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:50:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:50:17] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:50:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:50:20] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:50:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:50:23] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:50:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:50:26] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:50:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:50:29] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:50:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:50:32] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:50:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:50:35] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:50:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:50:38] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:50:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:50:41] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:50:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:50:44] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:50:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:50:47] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:50:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:50:50] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:50:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:50:53] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:50:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:50:56] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:50:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:50:59] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:50:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:51:02] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:51:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:51:05] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:51:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:51:08] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:51:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:51:11] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:51:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:51:14] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:51:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:51:17] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:51:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:51:20] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:51:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:51:23] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:51:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:51:26] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:51:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:51:29] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:51:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:51:32] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:51:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:51:35] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:51:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:51:38] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:51:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:51:41] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:51:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:51:44] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:51:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:51:47] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:51:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:51:50] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:51:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:51:53] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:51:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:51:56] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:51:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:51:59] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:51:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:52:02] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:52:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 15:52:05] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:52:14] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: line 8071438 (-899502811) 
+[2021-10-02 15:52:14] [INFO]: 发送群 Py QQbot(813476953) 的消息: 正在下载 Mafum ... (1524478132) 
+[2021-10-02 15:52:29] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-10-02 15:52:36] [WARNING]: 向WS服务器 127.0.0.1:15510 推送Event时出现错误: write tcp 127.0.0.1:53508->127.0.0.1:15510: use of closed network connection 
+[2021-10-02 15:52:39] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 15:52:40] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: line 8071438 (769294370) 
+[2021-10-02 15:52:40] [INFO]: 发送群 Py QQbot(813476953) 的消息: 正在下载 Mafum ... (1293748679) 
+[2021-10-02 15:52:50] [INFO]: 发送群 Py QQbot(813476953) 的消息: 下载完成 (974797137) 
+[2021-10-02 15:56:46] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: [CQ:image,file=872d6b67b8e1c89fe819828a1ebac7a8.image] (-736864131) 
+[2021-10-02 16:30:43] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-10-02 16:30:51] [WARNING]: 向WS服务器 127.0.0.1:15510 推送Event时出现错误: write tcp 127.0.0.1:53572->127.0.0.1:15510: use of closed network connection 
+[2021-10-02 16:30:54] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:33:28] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: line 8071438 (1248906718) 
+[2021-10-02 16:33:28] [INFO]: 发送群 Py QQbot(813476953) 的消息: 正在下载 Mafum ... (1031273800) 
+[2021-10-02 16:35:56] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-10-02 16:36:01] [WARNING]: 向WS服务器 127.0.0.1:15510 推送Event时出现错误: write tcp 127.0.0.1:55766->127.0.0.1:15510: use of closed network connection 
+[2021-10-02 16:36:04] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:36:11] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: line 8071438 (-1535202062) 
+[2021-10-02 16:36:11] [INFO]: 发送群 Py QQbot(813476953) 的消息: 正在下载 Mafum ... (-747004828) 
+[2021-10-02 16:36:34] [INFO]: 发送群 Py QQbot(813476953) 的消息: 下载完成 (1137082869) 
+[2021-10-02 16:38:17] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-10-02 16:38:21] [WARNING]: 向WS服务器 127.0.0.1:15510 推送Event时出现错误: write tcp 127.0.0.1:55936->127.0.0.1:15510: use of closed network connection 
+[2021-10-02 16:38:24] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:38:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:38:27] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:38:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:38:30] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:38:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:38:33] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:38:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:38:36] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:38:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:38:39] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:38:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:38:42] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:38:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:38:45] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:38:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:38:48] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:38:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:38:51] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:38:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:38:54] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:38:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:38:57] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:38:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:39:00] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:39:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:39:03] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:39:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:39:06] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:39:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:39:09] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:39:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:39:12] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:39:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:39:15] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:39:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:39:18] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:39:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:39:21] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:39:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:39:24] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:39:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:39:27] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:39:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:39:30] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:39:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:39:33] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:39:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:39:36] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:39:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:39:39] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:39:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:39:42] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:39:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:39:45] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:39:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:39:48] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:39:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:39:51] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:39:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:39:54] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:39:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:39:57] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:39:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:40:00] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:40:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:40:03] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:40:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:40:06] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:40:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:40:09] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:40:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:40:12] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:40:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:40:15] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:40:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:40:18] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:40:35] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: line 8071438 (1714444804) 
+[2021-10-02 16:40:35] [INFO]: 发送群 Py QQbot(813476953) 的消息: 正在下载 Mafum ... (288844434) 
+[2021-10-02 16:42:32] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-10-02 16:42:36] [WARNING]: 向WS服务器 127.0.0.1:15510 推送Event时出现错误: write tcp 127.0.0.1:56170->127.0.0.1:15510: use of closed network connection 
+[2021-10-02 16:42:39] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:42:42] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: line 8071438 (-2009187544) 
+[2021-10-02 16:42:43] [INFO]: 发送群 Py QQbot(813476953) 的消息: 正在下载 Mafum ... (-13038658) 
+[2021-10-02 16:43:52] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-10-02 16:43:56] [WARNING]: 向WS服务器 127.0.0.1:15510 推送Event时出现错误: write tcp 127.0.0.1:56226->127.0.0.1:15510: use of closed network connection 
+[2021-10-02 16:43:59] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:44:04] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: line 8071438 (1633525277) 
+[2021-10-02 16:44:05] [INFO]: 发送群 Py QQbot(813476953) 的消息: 正在下载 Mafum ... (375041675) 
+[2021-10-02 16:44:32] [INFO]: 发送群 Py QQbot(813476953) 的消息: 下载完成 (-128659545) 
+[2021-10-02 16:44:54] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-10-02 16:45:01] [WARNING]: 向WS服务器 127.0.0.1:15510 推送Event时出现错误: write tcp 127.0.0.1:56268->127.0.0.1:15510: use of closed network connection 
+[2021-10-02 16:45:04] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:45:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:45:07] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:45:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:45:10] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:45:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:45:13] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:45:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:45:16] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:45:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:45:19] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:45:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:45:22] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:45:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:45:25] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:45:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:45:28] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:45:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:45:31] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:45:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:45:34] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:45:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:45:37] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:45:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:45:40] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:45:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:45:43] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:45:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:45:46] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:45:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:45:49] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:45:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:45:52] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:45:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:45:55] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:45:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:45:58] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:45:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:46:01] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:46:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:46:04] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:46:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:46:07] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:46:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:46:10] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:46:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:46:13] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:46:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:46:16] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:46:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:46:19] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:46:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:46:22] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:46:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:46:25] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:46:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:46:28] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:46:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:46:31] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:46:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:46:34] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:46:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:46:37] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:46:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:46:40] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:46:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:46:43] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:46:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:46:46] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:46:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:46:49] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:46:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:46:52] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:46:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:46:55] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:46:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:46:58] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:46:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:47:01] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:47:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:47:04] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:47:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:47:07] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:47:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:47:10] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:47:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:47:13] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:47:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:47:16] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:47:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:47:19] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:47:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:47:22] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:47:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:47:25] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:47:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:47:28] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:47:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:47:31] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:47:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:47:34] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:47:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:47:37] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:47:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:47:40] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:47:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:47:43] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:47:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:47:46] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:47:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:47:49] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:47:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:47:52] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:47:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:47:55] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:47:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:47:58] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:47:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:48:01] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:48:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:48:04] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:48:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:48:07] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:48:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:48:10] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:48:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:48:13] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:48:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:48:16] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:48:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:48:19] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:48:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:48:22] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:48:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:15510/cqhttp/ws/ 时出现错误: dial tcp 127.0.0.1:15510: connect: connection refused 
+[2021-10-02 16:48:25] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:15510/cqhttp/ws/ 
+[2021-10-02 16:49:06] [INFO]: 收到群 Py QQbot(813476953) 内 小八的狐狸尾巴~(1216878448) 的消息: line 8071438 (1760285238) 
+[2021-10-02 16:49:06] [INFO]: 发送群 Py QQbot(813476953) 的消息: 正在下载 Mafum ... (535618208) 
+[2021-10-02 16:49:33] [INFO]: 发送群 Py QQbot(813476953) 的消息: 下载完成 (137124819) 
+[2021-10-02 16:52:55] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 吴狗男(1216878448) 的消息: [CQ:image,file=08b7edc0261b5978d362e384b0f96be3.image] (2141034417) 
+[2021-10-02 16:53:48] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 吴狗男(1216878448) 的消息: 太可怕了（） (-503774702) 
+[2021-10-02 17:09:01] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 汪狗涛(2640365924) 的消息: 太离谱了（） (-1761725820) 
+[2021-10-02 17:54:26] [INFO]: 发送群 Py QQbot(813476953) 的消息: 鹿乃酱发了新动态：  ... (-1859843479) 
+[2021-10-02 17:54:26] [INFO]: 发送群 Py QQbot(813476953) 的消息: 本条动态地址为htt ... (-433964289) 
+[2021-10-02 19:21:26] [INFO]: 发送群 Py QQbot(813476953) 的消息: 秦喵喵发了新动态：  ... (2017898332) 
+[2021-10-02 19:21:29] [INFO]: 发送群 Py QQbot(813476953) 的消息: [CQ:image, ... (255958986) 
+[2021-10-02 19:21:31] [INFO]: 发送群 Py QQbot(813476953) 的消息: [CQ:image, ... (-1773613456) 
+[2021-10-02 19:21:32] [INFO]: 发送群 Py QQbot(813476953) 的消息: 本条动态地址为htt ... (-514851098) 
+[2021-10-02 19:26:25] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 --初见--(920592790) 的消息: 色图呢 (981654319) 
+[2021-10-02 19:26:50] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 墨墨(1328676962) 的消息: 色图呢 (-1551136107) 
+[2021-10-02 19:26:51] [INFO]: 发送群 kenshi汉化和mod研究及暖暖化制作监督委员会-1群(696654735) 的消息: 色图呢 (-728974845) 
+[2021-10-02 19:27:24] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 Mr.咸鱼(419895113) 的消息: 色图呢 (1256730528) 
+[2021-10-02 19:28:05] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 drm9900(515481577) 的消息: [CQ:image,file=24b26b4f82f01596fdd402f8dd6ccefb.image] (1039081270) 
+[2021-10-02 19:33:44] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 墨墨(1328676962) 的消息: 刚刚看完 (-1528410484) 
+[2021-10-02 19:44:16] [INFO]: 收到群 kenshi汉化和mod研究及暖(696654735) 内 ‭ (363843342) 的消息: [CQ:reply,id=1039081270][CQ:at,qq=515481577] hso (-740196838) 
+[2021-10-02 20:06:26] [INFO]: 发送群 Py QQbot(813476953) 的消息: 秦喵喵发了新动态：  ... (1911612279) 
+[2021-10-02 20:06:27] [INFO]: 发送群 Py QQbot(813476953) 的消息: 本条动态地址为htt ... (116904929) 
+[2021-10-02 22:18:26] [INFO]: 发送群 Py QQbot(813476953) 的消息: 秦喵喵转发了「Mr. ... (812318082) 
+[2021-10-02 22:18:27] [INFO]: 发送群 Py QQbot(813476953) 的消息: 本条动态地址为htt ... (1198378260) 
+[2021-10-02 23:09:44] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 吴狗男(1216878448) 的消息: [CQ:image,file=60a9f9af70ef56b499e2ce5db67b49f6.image] (267871038) 
+[2021-10-02 23:09:46] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 吴狗男(1216878448) 的消息: 完了 (2029015976) 
+[2021-10-02 23:09:50] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 吴狗男(1216878448) 的消息: 想买 (-397455815) 
+[2021-10-02 23:10:50] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 汪狗涛(2640365924) 的消息: [CQ:image,file=09f43cf53e2d7d8614c2dbe67d1e1dd0.image] (-1622638929) 
+[2021-10-02 23:10:53] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 汪狗涛(2640365924) 的消息: [CQ:image,file=d39c3592ae2baa3a618e88799fd46131.image] (-7342262) 
+[2021-10-02 23:15:55] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 吴狗男(1216878448) 的消息: [CQ:image,file=d697f844a5c42f04667fe856db0d9093.image] (-2004301860) 
+[2021-10-02 23:18:04] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 吴狗男(1216878448) 的消息: 淘宝还有一个 (293705318) 
+[2021-10-02 23:18:50] [INFO]: 收到群 <$ÿĀ>非狗X3＆肥欧狗X(859265365) 内 汪狗涛(2640365924) 的消息: 那就直接忘记有这个东西 (1720100592) 

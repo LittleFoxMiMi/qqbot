@@ -18,7 +18,7 @@ async def _(bot: Bot, event: GroupMessageEvent, state: T_State):
     if not await qq_check(event.get_user_id(), super_user):
         await youtubedl.finish("你没有权限捏")
     len_args = len(args)
-    download_args = f"cd {download_path} && youtube-dl -f best "
+    download_args = f"cd {download_path} && yt-dlp -f best "
     ffmpeg_args = ""
     if args==[""]:
         await youtubedl.finish("至少需要一个url参数")
