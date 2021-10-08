@@ -18,12 +18,16 @@ async def _(bot: Bot, event: GroupMessageEvent, state: T_State):
     if not await qq_check(event.get_user_id(), super_user):
         await youtubedl.finish("你没有权限捏")
     len_args = len(args)
-    download_args = f"cd {download_path} && yt-dlp -f best "
+    download_args = f"cd {download_path} && yt-dlp -f "
     ffmpeg_args = ""
     if args==[""]:
         await youtubedl.finish("至少需要一个url参数")
     elif len_args>2:
         await youtubedl.finish("传入了过多的参数！\nyoutubedl url [mp3/mp4]")
+    if "youtu.be" in args[0]:
+        download_args += "bestaudio+bestvideo "
+    else:
+        download_args += "best "
     download_args += args[0]
     try:
         await clear_dir()

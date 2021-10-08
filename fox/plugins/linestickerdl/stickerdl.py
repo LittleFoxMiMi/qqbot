@@ -11,6 +11,8 @@ savepath = "./fox/data/line/"
 
 async def sticker_download(pack_id, linesticker, bot, event):
     pack_meta = await get_pack_meta(pack_id)
+    if pack_meta=="err":
+        return f"找不到id为'{pack_id}'的贴纸包"
     name_string = """"en":"""  # folder name will take pack's English title
     pack_name = get_pack_name(name_string, pack_meta)
     pack_name = decode_escapes(pack_name)
