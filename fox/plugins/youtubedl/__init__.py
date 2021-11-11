@@ -1,5 +1,6 @@
 import subprocess
 import os
+import time
 
 from nonebot import on_command
 from nonebot.adapters.cqhttp.bot import Bot
@@ -18,16 +19,18 @@ async def _(bot: Bot, event: GroupMessageEvent, state: T_State):
     if not await qq_check(event.get_user_id(), super_user):
         await youtubedl.finish("你没有权限捏")
     len_args = len(args)
-    download_args = f"cd {download_path} && yt-dlp -f "
+    download_args = f"cd {download_path} && yt-dlp "
     ffmpeg_args = ""
     if args==[""]:
         await youtubedl.finish("至少需要一个url参数")
-    elif len_args>2:
-        await youtubedl.finish("传入了过多的参数！\nyoutubedl url [mp3/mp4]")
+    elif len_args==3:
+        download_args+= f"-o '{args[2]}.%(ext)s' "
+    elif len_args>3:
+        await youtubedl.finish("传入了过多的参数！\nyoutubedl url [mp3/mp4] [name]")
     if "youtu.be" in args[0]:
-        download_args += "bestaudio+bestvideo "
+        download_args += "-f bestaudio+bestvideo "
     else:
-        download_args += "best "
+        download_args += "-f best "
     download_args += args[0]
     try:
         await clear_dir()
@@ -35,7 +38,12 @@ async def _(bot: Bot, event: GroupMessageEvent, state: T_State):
         await youtubedl.finish("清空download目录错误！")
     await youtubedl.send("正在下载。。。")
     await download(download_args)
-    filename=os.listdir(download_path)
+    while True:
+        filename=os.listdir(download_path)
+        if len(filename)!=0:
+            break
+        else:
+            time.sleep(1)
     name=filename[0]
     if len_args ==2:
         await youtubedl.send("下载完成，正在转码。。。")

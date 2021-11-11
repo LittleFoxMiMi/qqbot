@@ -25,22 +25,22 @@ async def pi(bot: Bot, event: GroupMessageEvent, state: T_State):
     if args == "r18" or args == "R18":
         if await qq_check(event.group_id, r18_group):
             url = await lolicon_api(r18=1)
-            if "https://" not in str(url):
-                err = str(url)
+            if "https://" not in str(url[0]):
+                err = str(url[0])
                 await pixiv.finish(f"工口发生！\n{err}")
-            if await download_pic(url) == "err":
-                await pixiv.finish("工口发生！")
+            if await download_pic(url[0],url[1]) == "err":
+                await pixiv.finish("工口发生！图片下载失败捏")
                 await bot.call_api(api="send_group_msg", group_id=event.group_id, message="[CQ:image,file=file:///home/qqbot/fox/data/pixiv/image/_tt.jpg]")
                 return
         else:
             await pixiv.finish("不许R18喵！")
     elif args == "":
         url = await lolicon_api(r18=0)
-        if "https://" not in str(url):
-            err = str(url)
+        if "https://" not in str(url[0]):
+            err = str(url[0])
             await pixiv.finish(f"工口发生！\n{err}")
-        if await download_pic(url) == "err":
-            await pixiv.finish("工口发生！")
+        if await download_pic(url[0],url[1]) == "err":
+            await pixiv.finish("工口发生！图片下载失败捏")
         await bot.call_api(api="send_group_msg", group_id=event.group_id, message="[CQ:image,file=file:///home/qqbot/fox/data/pixiv/image/_tt.jpg]")
     else:
         await pixiv.finish("参数错误捏")

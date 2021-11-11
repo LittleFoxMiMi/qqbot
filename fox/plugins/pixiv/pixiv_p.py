@@ -16,17 +16,19 @@ async def lolicon_api(r18):
             async with session.get("https://api.lolicon.app/setu"+myurl) as resp:
                 temp = await resp.text()
                 result = ujson.loads(temp)
-        return result['data'][0]['url']
+        return [result['data'][0]['url'],result['data'][0]['pid']]
     except Exception as e:
         return e
 
 
-async def download_pic(url):
+async def download_pic(url,pid):
+    url=re.sub("i.pixiv.cat","i.pximg.net",url)
+    print(url)
     try:
         async with aiohttp.ClientSession(
-                headers={
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36"},
-                timeout=aiohttp.ClientTimeout(total=10)) as session:
+            headers={
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36","referer":"https://www.pixiv.net/member_illust.php?mode=medium&illust_id="+str(pid)},
+            timeout=aiohttp.ClientTimeout(total=10)) as session:
             async with session.get(url) as resp:
                 img = await resp.read()
     except Exception as e:
