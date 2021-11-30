@@ -20,18 +20,22 @@ async def _(bot: Bot, event: GroupMessageEvent, state: T_State):
         await youtubedl.finish("你没有权限捏")
     len_args = len(args)
     download_args = f"cd {download_path} && yt-dlp "
-    ffmpeg_args = ""
-    if args==[""]:
+    ffmpeg_args = "--recode-video mp4 "
+    name_args = 'output'
+    if args == [""]:
         await youtubedl.finish("至少需要一个url参数")
-    elif len_args==3:
-        download_args+= f"-o '{args[2]}.%(ext)s' "
-    elif len_args>3:
+    elif len_args > 3:
         await youtubedl.finish("传入了过多的参数！\nyoutubedl url [mp3/mp4] [name]")
     if "youtu.be" in args[0]:
         download_args += "-f bestaudio+bestvideo "
     else:
         download_args += "-f best "
-    download_args += args[0]
+    if len_args == 2:
+        await youtubedl.finish("传入了过少的参数！\nyoutubedl url [mp3/mp4] [name]")
+    if len_args == 3:
+        ffmpeg_args = f"--recode-video {args[1]} "
+        name_args = args[2]
+    download_args += ffmpeg_args + f"-o '{name_args}.%(ext)s' " + args[0]
     try:
         await clear_dir()
     except:
@@ -39,47 +43,29 @@ async def _(bot: Bot, event: GroupMessageEvent, state: T_State):
     await youtubedl.send("正在下载。。。")
     await download(download_args)
     while True:
-        filename=os.listdir(download_path)
-        if len(filename)!=0:
-            break
+        filename = os.listdir(download_path)
+        if len(filename) != 0:
+            if len_args > 1:
+                if filename[0] == name_args+'.'+args[1]:
+                    break
+            else:
+                if filename[0] == 'output.mp4':
+                    break
         else:
+            print("sleep one sec...")
             time.sleep(1)
-    name=filename[0]
-    if len_args ==2:
-        await youtubedl.send("下载完成，正在转码。。。")
-        if args[1] == "mp3":
-            if name[-4:]==".mp3":
-                await youtubedl.send("文件无需转码")
-            else:
-                ffmpeg_args = f"cd {download_path} && ffmpeg -i '{name}' -c:v libx264 -b:a 256k '{name}.mp3'"
-                name+=".mp3"
-                await ffmpeg_format(ffmpeg_args)
-        elif args[1] == "mp4":
-            if name[-4:]==".mp4":
-                await youtubedl.send("文件无需转码")
-            else:
-                ffmpeg_args = f"cd {download_path} && ffmpeg -i '{name}' -c:v libx264 -c:a copy '{name}.mp4'"
-                name+=".mp4"
-                await ffmpeg_format(ffmpeg_args)
-        else:
-            await youtubedl.send("不支持的格式，将会发送原文件")
-    await bot.call_api(api="upload_group_file",group_id=event.group_id,file=download_path+name,name=name)
-    
+    name = filename[0]
+    await bot.call_api(api="upload_group_file", group_id=event.group_id, file=download_path+name, name=name)
 
 
 async def download(args):
     try:
-        subprocess.check_call(args,shell=True)
+        subprocess.check_call(args, shell=True)
     except Exception as e:
         await youtubedl.finish("download错误！\n错误代码是:"+str(e))
 
+
 async def clear_dir():
-    filename=os.listdir(download_path)
+    filename = os.listdir(download_path)
     for name in filename:
         os.remove(download_path+name)
-
-async def ffmpeg_format(args):
-    try:
-        subprocess.check_output(args,shell=True)
-    except Exception as e:
-        await youtubedl.finish("ffmpeg错误！\n错误代码是:"+str(e))
