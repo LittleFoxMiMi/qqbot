@@ -55,6 +55,7 @@ async def _(bot: Bot, event: GroupMessageEvent, state: T_State):
             print("sleep one sec...")
             time.sleep(1)
     name = filename[0]
+    time.sleep(5)
     await bot.call_api(api="upload_group_file", group_id=event.group_id, file=download_path+name, name=name)
 
 
