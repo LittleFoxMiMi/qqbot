@@ -24,7 +24,7 @@ async def repeat_message_handle(bot: Bot, event: GroupMessageEvent, state: T_Sta
     if await qq_check(qun, ban_group):
         return
     if await mre(qun, msg):
-        await repeat_message.finish(msg)
+        await repeat_message.send(msg)
 
 
 repeat_ban = on_command("repeat", rule=None, block=True)
